@@ -1,0 +1,40 @@
+﻿Create an int and double NumbersBox
+----------------------------------------------------------------
+1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1
+Populate intbox and doublebox and display
+----------------------------------------------------------------
+2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2
+Box name: Int Box
+22, 33, 44
+
+Box name: Double Box
+1.5, 2.5, 3.5
+
+Perform *= operation on intboxs, first of not matching sizes then matching sizes
+----------------------------------------------------------------
+3 - 3 - 3 - 3 - 3 - 3 - 3 - 3 - 3 - 3
+Box name: Int Box
+22, 33, 44
+
+Box name: Int Box
+484, 1089, 1936
+
+Perform *= operation on doubleboxs, first of not matching sizes then matching sizes
+----------------------------------------------------------------
+4 - 4 - 4 - 4 - 4 - 4 - 4 - 4 - 4 - 4
+Empty Box
+
+Box name: Double Box
+1.5, 2.5, 3.5
+
+Box name: Double Box
+2.25, 6.25, 12.25
+
+Perform += on intbox and doublebox and add a new item to it
+----------------------------------------------------------------
+5 - 5 - 5 - 5 - 5 - 5 - 5 - 5 - 5 - 5
+Box name: Int Box
+484, 1089, 1936, 999
+
+Box name: Double Box
+2.25, 6.25, 12.25, 999.999
