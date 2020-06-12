@@ -1,0 +1,12 @@
+One issue I was having was a syntax error specifically for my Wrapping* m_wrap pointer. I figured 
+that that it needed to be initialized and also i should put my struct Wrapping before my struct 
+Gift because it wasn't recognizing the Wrapping type since it was after. 
+
+I also have confusion when it comes to deallocating because i'm never sure which parameter to deallocate.
+I learned during the unwrap function and debugging because on line where i'm allocating memory for m_wrap the gift 
+in function "wrap" then on the "unwrap" function since you are deleting (unwrapping the gift) you set 
+the layers to 0 and delete the memory. 
+
+Alot of my confusions was from allocating and deallocating memory last year which I think in this workshop I 
+went through the debugger and seeing how the values in memory gets stored and when it should get thrown out. 
+During this workshop I got to practice this skill.
